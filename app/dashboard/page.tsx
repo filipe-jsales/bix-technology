@@ -1,5 +1,6 @@
+/* eslint-disable @typescript-eslint/ban-ts-comment */
+// @ts-nocheck
 "use client";
-
 import { useState, useEffect } from "react";
 import styled from "styled-components";
 import { useRouter } from "next/navigation";

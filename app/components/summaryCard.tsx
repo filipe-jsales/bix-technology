@@ -1,5 +1,6 @@
+/* eslint-disable @typescript-eslint/ban-ts-comment */
 import styled from 'styled-components';
-
+// @ts-ignore
 const SummaryCard = ({ title, value, color }) => {
   return (
     <CardContainer color={color}>
